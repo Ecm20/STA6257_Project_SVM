@@ -1,6 +1,6 @@
 https://www.jstatsoft.org/article/view/v015i09
 
-The above article outlines what SVM's are and what their use cases are as well as deployment strategies for datasets in R.
+The above article from the Journal of statistical Software outlines what Support Vector Machnies are and what their use cases can be. The article continues by leveraging the mathmatical equations for classification and regression as well as deployment strategies for datasets in R. The article concludes with examples of code and outputs showcasings the results on the iris data set. 
 
 
 
