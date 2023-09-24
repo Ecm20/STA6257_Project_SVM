@@ -19,7 +19,7 @@ editor:
 
 ## Introduction
 
-Place holder for MS word Write-up.
+SVM's are a useful tool......
 
 # Research
 
