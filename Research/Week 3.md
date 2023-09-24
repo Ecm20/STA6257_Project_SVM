@@ -1,6 +1,6 @@
 https://ieeexplore.ieee.org/abstract/document/4840324
 
-This article details the ways in which SVM's have been utilized to perform time series analysis. I found this very interesting as in my current line of work we are looking for ways to implement more Machine Learning into our models and we do a fair amount of Time Series Analysis. This is a important topic for us as we start to work through the best way we can utilize and implement our model and how to best identify the uses for the model. Additionally this article delves into SVR and how that methodology can also be utilized in Time Series modeling. 
+This article details the ways in which Support Vector Machines have been utilized to perform time series analysis. I found this very interesting as in my current line of work we are looking for ways to implement more Machine Learning into our models and we do a fair amount of Time Series Analysis. This is a important topic for us as we start to work through the best way we can utilize and implement our model and how to best identify the uses for the model. Additionally this article delves into SVR and how that methodology can also be utilized in Time Series modeling. 
 
 
 
