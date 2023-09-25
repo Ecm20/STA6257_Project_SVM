@@ -1,5 +1,5 @@
 ---
-title: "Report Sample"
+title: "Support Vector Machines in ICU Mortality Predictions"
 author: "Eric Miller"
 date: '`r Sys.Date()`'
 format:
@@ -19,7 +19,20 @@ editor:
 
 ## Introduction
 
-Support Vector Machines (SVM) are a useful way to mine data given their effectiveness for binary classification. SVMs can also be utilized to make models that can ingest new data to make accurate predictions on a variety of initiatives, such as Electronic Medical Records (EMR). It is important to keep in mind, though, that SVMs can be hard to train, especially on big data sets which are often the case in the Healthcare industry. SVMs can also be responsive to how the SVM kernel and hyperparameters are chosen as they rely on a definitive Hyperplane. Therefore, is important to cleanse and feature engineer the data, which will help make new features that may be more useful for the SVM model. Once the SVM model has been trained and tuned, it can be used to predict an outcome with a specific degree of certainty with new data. The subsequent paper focuses on the development and utilization of SVMs to predict Intensive Care Unit (ICU) patient survivability.
+Support Vector Machines (SVM) are a useful way to mine data given their
+effectiveness for binary classification. SVMs can also be utilized to
+make models that can ingest new data to make accurate predictions on a
+variety of initiatives, such as Electronic Medical Records (EMR). It is
+important to keep in mind, though, that SVMs can be hard to train,
+especially on big data sets which are often the case in the Healthcare
+industry. SVMs can also be responsive to how the SVM kernel and
+hyperparameters are chosen as they rely on a definitive Hyperplane.
+Therefore, is important to cleanse and feature engineer the data, which
+will help make new features that may be more useful for the SVM model.
+Once the SVM model has been trained and tuned, it can be used to predict
+an outcome with a specific degree of certainty with new data. The
+subsequent paper focuses on the development and utilization of SVMs to
+predict Intensive Care Unit (ICU) patient survivability.
 
 # Research
 
@@ -31,7 +44,7 @@ Support Vector Machines (SVM) are a useful way to mine data given their effectiv
 
 {{< include "Research/Week 3.md" >}}
 
-## Week 4 
+## Week 4
 
 {{< include "Research/Week 4.md" >}}
 
