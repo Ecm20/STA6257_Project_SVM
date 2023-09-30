@@ -48,6 +48,10 @@ predict Intensive Care Unit (ICU) patient survivability.
 
 {{< include "Research/Week 4.md" >}}
 
+## Week 6
+
+{{< include "Research/Week 6.md" >}}
+
 ## Methods
 
 ## Analysis and Results
